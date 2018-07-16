@@ -7,3 +7,8 @@ print('a+b')
 
 
 print{'suibianxiedian')
+
+print('xinjianfenzhi')
+print('zuodian bug')
+
+
